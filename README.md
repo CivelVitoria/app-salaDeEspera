@@ -10,3 +10,5 @@
 Live Demo: https://calendario-audiencia.vercel.app/
 
 `Login sera bloqueado se não utilizar um email de ADM da API do google`
+
+# Tutorial do usuario: https://github.com/GABRIELBOLDIVEIGA/Calendario-Audiencia-/blob/main/tutorial%20usuario.pdf
